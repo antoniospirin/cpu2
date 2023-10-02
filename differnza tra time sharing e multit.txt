@@ -1,0 +1,1 @@
+differnza tra time sharing e multitasking e che i processi leggeri finiscono prima di quelli pesanti viaggiando quasi simultaneamente ,cio li rendende leggermente  piu efficenti,diminuendo probabilita d errore ,il vantanggio del multitansking è la capiccità di dare priorità a determinati pachetti rispetto ad altri 
